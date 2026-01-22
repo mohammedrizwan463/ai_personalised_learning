@@ -1,0 +1,801 @@
+{
+    "student_id": "demo_student",
+    "created_at": "2026-01-22T05:29:50.379723",
+    "last_updated": "2026-01-22T08:45:57.931264",
+    "quiz_attempts": 54,
+    "topics": {
+        "Basics": {
+            "history": [
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:29:50.379732"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:30:00.935385"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:44:29.087860"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:44:39.177822"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:46:15.809639"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:46:18.877331"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:47:21.662773"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:06.056757"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:50.407260"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:51.331003"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:51:29.133319"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:53:34.602312"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:53:35.781838"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:55:14.888396"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:57:14.588662"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:58:45.716285"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:03:43.087168"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:02.044187"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:06.093831"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:25:14.138043"
+                },
+                {
+                    "score": 50.0,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T06:29:14.009237"
+                },
+                {
+                    "score": 50.0,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T06:29:20.326975"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:32.338609"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:38.953964"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:39.378683"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:31:45.536260"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:31:47.208760"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:50.588032"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:52.016975"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:36:07.404498"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:30.527415"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:52.586337"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:06.403662"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:14.457526"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:53.975997"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:03:34.515577"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:12:39.611178"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:14:16.102629"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:14:52.394916"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:15:41.510135"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:16:47.090399"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:13.827753"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:54.077075"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:18:06.731073"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:39:52.773314"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:40:16.227330"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:39.335592"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:40.859071"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:45:57.931264"
+                }
+            ],
+            "current_score": 0.0,
+            "current_level": "Weak"
+        },
+        "Loops": {
+            "history": [
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:29:50.379732"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:30:00.935385"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:44:29.087860"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:44:39.177822"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:46:15.809639"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:46:18.877331"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:47:21.662773"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:06.056757"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:50.407260"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:49:51.331003"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:51:29.133319"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:53:34.602312"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:53:35.781838"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:55:14.888396"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:57:14.588662"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:58:45.716285"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:03:43.087168"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:21:26.999890"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:21:57.484843"
+                },
+                {
+                    "score": 100.0,
+                    "level": "Strong",
+                    "timestamp": "2026-01-22T06:22:05.264222"
+                },
+                {
+                    "score": 100.0,
+                    "level": "Strong",
+                    "timestamp": "2026-01-22T06:22:08.785865"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:02.044187"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:06.093831"
+                },
+                {
+                    "score": 100.0,
+                    "level": "Strong",
+                    "timestamp": "2026-01-22T06:25:14.138043"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:14.009237"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:20.326975"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:32.338609"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:38.953964"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:39.378683"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:31:45.536260"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:31:47.208760"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:50.588032"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:52.016975"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:36:07.404498"
+                },
+                {
+                    "score": 40.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:30.527415"
+                },
+                {
+                    "score": 40.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:52.586337"
+                },
+                {
+                    "score": 16.67,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:00:47.510192"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:06.403662"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:14.457526"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:53.975997"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:03:34.515577"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:12:39.611178"
+                },
+                {
+                    "score": 50.0,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T07:14:16.102629"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:14:52.394916"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:15:41.510135"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:16:47.090399"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:13.827753"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:54.077075"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:18:06.731073"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:39:52.773314"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:40:16.227330"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:39.335592"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:40.859071"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:45:57.931264"
+                }
+            ],
+            "current_score": 0.0,
+            "current_level": "Weak"
+        },
+        "Functions": {
+            "history": [
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:29:50.379732"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:30:00.935385"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:44:29.087860"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T05:44:39.177822"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:46:15.809639"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:46:18.877331"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:47:21.662773"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:49:06.056757"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:49:50.407260"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:49:51.331003"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:51:29.133319"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:53:34.602312"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:53:35.781838"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:55:14.888396"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:57:14.588662"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T05:58:45.716285"
+                },
+                {
+                    "score": 66.67,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T06:03:43.087168"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:21:26.999890"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:21:57.484843"
+                },
+                {
+                    "score": 50.0,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T06:22:05.264222"
+                },
+                {
+                    "score": 50.0,
+                    "level": "Medium",
+                    "timestamp": "2026-01-22T06:22:08.785865"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:02.044187"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:24:06.093831"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:25:14.138043"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:14.009237"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:20.326975"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:32.338609"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:38.953964"
+                },
+                {
+                    "score": 25.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:29:39.378683"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:50.588032"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:34:52.016975"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:36:07.404498"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:30.527415"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T06:42:52.586337"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:00:47.510192"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:06.403662"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:14.457526"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:02:53.975997"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:03:34.515577"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:12:39.611178"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:14:16.102629"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:14:52.394916"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:15:41.510135"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:16:47.090399"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:13.827753"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:17:54.077075"
+                },
+                {
+                    "score": 33.33,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T07:18:06.731073"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:39:52.773314"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:40:16.227330"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:39.335592"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:44:40.859071"
+                },
+                {
+                    "score": 0.0,
+                    "level": "Weak",
+                    "timestamp": "2026-01-22T08:45:57.931264"
+                }
+            ],
+            "current_score": 0.0,
+            "current_level": "Weak"
+        }
+    }
+}

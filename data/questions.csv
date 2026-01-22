@@ -1,0 +1,31 @@
+id,question,option1,option2,option3,option4,answer,topic,difficulty,weight,bloom
+1,"What is a variable?","A container for data","A loop","A function","A class","A container for data",Basics,Easy,1,Remember
+2,"Which data type stores decimals?","int","str","float","bool","float",Basics,Easy,1,Remember
+3,"What is the output of print(5+3)?","53","8","Error","None","8",Basics,Easy,1,Understand
+4,"Which keyword defines a function?","def","fun","function","define","def",Functions,Easy,1,Remember
+5,"What does len([1,2,3]) return?","2","3","4","Error","3",Basics,Easy,1,Understand
+6,"Which loop runs fixed times?","while","if","for","break","for",Loops,Easy,1,Remember
+7,"What is the output of range(3)?","0 1 2","1 2 3","0 1 2 3","3","0 1 2",Loops,Medium,2,Understand
+8,"Which is correct function call?","func[]","func()","call func","func{}","func()",Functions,Medium,2,Apply
+9,"What is mutable?","tuple","string","list","int","list",Basics,Medium,2,Understand
+10,"Which loop checks condition first?","do-while","while","for","none","while",Loops,Medium,2,Understand
+11,"Return type of input()?","int","str","bool","float","str",Functions,Medium,2,Understand
+12,"What does break do?","Stops loop","Skips iteration","Ends program","Pauses","Stops loop",Loops,Medium,2,Apply
+13,"Nested loops are used for?","Single tasks","Matrix problems","Functions only","Conditions","Matrix problems",Loops,Medium,2,Apply
+14,"Which is function parameter?","value","argument","input","variable","variable",Functions,Medium,2,Understand
+15,"Which keyword exits function?","stop","end","return","break","return",Functions,Medium,2,Remember
+16,"Which creates empty list?","()","{}","[]","None","[]",Basics,Medium,2,Apply
+17,"What is scope?","Variable visibility","Loop size","Speed","Memory","Variable visibility",Basics,Medium,2,Understand
+18,"Which is local variable?","Inside function","Global","Static","Constant","Inside function",Functions,Medium,2,Understand
+19,"What is time complexity of single loop?","O(1)","O(n)","O(n^2)","O(log n)","O(n)",Loops,Hard,3,Analyze
+20,"What is recursion?","Function calling itself","Loop","Condition","Variable","Function calling itself",Functions,Hard,3,Analyze
+21,"Which causes infinite loop?","Missing update","break","return","input","Missing update",Loops,Hard,3,Analyze
+22,"Stack overflow occurs in?","Loops","Recursion","Input","Print","Recursion",Functions,Hard,3,Analyze
+23,"What is O(n^2)?","Nested loops","Single loop","Recursion only","Sorting","Nested loops",Loops,Hard,3,Analyze
+24,"Which improves performance?","Caching","Printing","Debugging","Comments","Caching",Basics,Hard,3,Analyze
+25,"Which is best for repeated tasks?","Functions","Variables","Classes","Objects","Functions",Functions,Hard,3,Apply
+26,"Which data structure fastest search?","List","Set","Tuple","Dict","Dict",Basics,Hard,3,Analyze
+27,"Which avoids redundancy?","Functions","Loops","Print","Input","Functions",Functions,Hard,3,Apply
+28,"What is memoization?","Caching results","Looping","Recursion only","Sorting","Caching results",Functions,Hard,3,Analyze
+29,"Which causes logical error?","Wrong condition","Crash","Exception","Syntax","Wrong condition",Basics,Hard,3,Analyze
+30,"Best use of nested loops?","Pattern printing","Single tasks","Input only","Functions","Pattern printing",Loops,Hard,3,Apply
